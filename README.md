@@ -1,13 +1,13 @@
 Technical Account Manager | Aspiring Cybersecurity Professional | Hands-on Projects & Security Fundamentals
 
 ### About Me
-I’m Luca Raicovich, a Technical Account Manager focused on cybersecurity and building security programs that are both practical and effective.
+I’m Luca Raicovich, a Technical Account Manager currently building my foundation in cybersecurity through hands-on training, projects, and an externship experience.
 
-My work sits between strategy and execution — helping translate security goals into real, defensible systems. I spend most of my time thinking about threat modeling, incident response, and how to reduce risk in ways that actually hold up in production environments.
+My focus is on understanding how real-world systems are attacked and how to build practical defenses in response. I’ve been developing skills in areas like threat modeling, incident response, and core defensive concepts through structured learning and applied labs.
 
-I’m currently deepening my experience in SOC operations and defensive architecture, with a focus on building scalable, resilient security capabilities.
+During my externship, I worked on implementing email and domain security controls, improving input validation, and supporting client-facing security recommendations, giving me exposure to how these concepts are applied in real environments.
 
-Interested in collaborating on security, risk reduction, or resilience-focused initiatives.
+Coming from a client-facing technical role, I’m especially interested in bridging the gap between security strategy and implementation. I’m continuing to build my skills and looking for opportunities to contribute, learn, and grow in cybersecurity.
 
 ### Externship - SuperNova MGU
 
