@@ -1,4 +1,4 @@
-Technical Account Manager | Cybersecurity Practitioner | Building Practical Security & Resilient Systems
+Technical Account Manager | Aspiring Cybersecurity Professional | Hands-on Projects & Security Fundamentals
 
 ### About Me
 I’m Luca Raicovich, a Technical Account Manager focused on cybersecurity and building security programs that are both practical and effective.
